@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings and beach vacations.",
+    "image": "https://i.postimg.cc/BQw7VnK6/sunglasses.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Summer Beach Hat",
+    "brand": "OceanWear",
+    "price": 20,
+    "rating": 4.5,
+    "stock": 8,
+    "description": "Lightweight and breathable beach hat designed to keep you cool under the sun.",
+    "image": "https://i.postimg.cc/QdLTt8tG/beach-hat.jpg",
+    "category": "Fashion"
+  },
+  {
+    "id": 3,
+    "name": "Hydrating Sunscreen SPF 50",
+    "brand": "GlowSkin",
+    "price": 18,
+    "rating": 4.9,
+    "stock": 15,
+    "description": "Water-resistant sunscreen with SPF 50 for maximum summer skin protection.",
+    "image": "https://i.postimg.cc/4Nx2W4tM/sunscreen.jpg",
+    "category": "Skincare"
+  },
+  {
+    "id": 4,
+    "name": "Portable Mini Fan",
+    "brand": "CoolBreeze",
+    "price": 12,
+    "rating": 4.4,
+    "stock": 20,
+    "description": "Rechargeable handheld mini fan perfect for outdoor summer activities.",
+    "image": "https://i.postimg.cc/K8mJ7wYQ/mini-fan.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "name": "Floral Summer Dress",
+    "brand": "SunnyStyle",
+    "price": 35,
+    "rating": 4.8,
+    "stock": 6,
+    "description": "Elegant floral summer dress made with soft breathable fabric.",
+    "image": "https://i.postimg.cc/1X5L7J1W/summer-dress.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 6,
+    "name": "Beach Sandals",
+    "brand": "WaveWalk",
+    "price": 22,
+    "rating": 4.6,
+    "stock": 12,
+    "description": "Comfortable anti-slip beach sandals ideal for summer adventures.",
+    "image": "https://i.postimg.cc/3N9z8H6m/sandals.jpg",
+    "category": "Footwear"
+  }
+]
